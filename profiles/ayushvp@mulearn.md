@@ -1,4 +1,3 @@
-Here’s a filled-in version of the template with your details:
 
 ---
 
