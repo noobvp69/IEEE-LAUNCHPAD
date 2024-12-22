@@ -13,7 +13,7 @@ I’m Ayush, MSc Computer Science student passionate about frontend development,
 
 | Name                        | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |-----------------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Cursed To-Do List**       | A fun project that adds quirky elements to a traditional to-do list.      | [Hosted Link](https://example.com)       | [Repo Link](https://github.com/username/cursed-todo-list)       |
+| **Cursed To-Do List**       | A fun project that simply wastes your time.      | [Hosted Link](https://chill-chasm-lazarus.netlify.app/)       | [Repo Link](https://github.com/noobvp69/new-tinkerhuib-project)       |
 | **Overly Dramatic Typing Soundboard** | A soundboard that plays exaggerated typing sounds for fun.              | [Hosted Link](https://example.com)       | [Repo Link](https://github.com/username/dramatic-typing-soundboard) |
 
 #### **Leadership and Influence:**
